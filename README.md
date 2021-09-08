@@ -1,6 +1,6 @@
-Privacy Policy
+<b>Privacy Policy</b>
 
-taronovapps built the Sound level meter app as an Ad Supported app. This SERVICE is provided by taronovapps at no cost and is intended for use as is.
+taronovapps built the Hungry Ocean app as an Ad Supported app. This SERVICE is provided by taronovapps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
