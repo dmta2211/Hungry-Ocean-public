@@ -18,7 +18,6 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Appmetrica](https://yandex.ru/legal/confidential/?lang=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
@@ -56,7 +55,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-08-08
+This policy is effective as of 2022-03-13
 
 **Contact Us**
 
